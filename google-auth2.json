@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "rational-hydra-279814",
+    "private_key_id": "37b781dca5bb0314626384d2fce1be6f50e37781",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUp5CGKsj3CD1v\n1/RQXjTwaDEmC5cMpi3yDSzqjCUAl3pTNUHnFVQ4pB96+/WziOimCe2hgPWgRvkV\nUqXUgF1rTclI0kNNT/9YXaA4VrgIEWYdC/JSGbCWL2d5iA1xzetYZ4b8khiSLEnA\nn+x8aCgT1T4Oo5/0JvUk6yJUURP8nqZWDhm+gTXoknQfVqmdNtFXdb/GRKAnZr95\nNYQpLvoQyVcg/OTWSbhRfwuafAMf8n3gwXiWwaciyWLOvG/O8M3VubbcRwGGLxts\nxWz4qIjmjFwRmPnrLeBmqsrp2Lb9ghKEGWmqELJ9LIA4h+XVK+K74Co4S6yZglnc\nDNBapg9dAgMBAAECggEAEwHaLV/QICJsqV1GUVOmTDGn6PRivybwVuD+GYXGveeM\nL7lEJ3U01q42wR2Zr78mOkcLZiLacYW+eD0vpM+HahKlEdz3Vob2tg2CR17a6p+x\nfpmlgliY+8eHammyd/BVn4x7WIJvb0tFmVHCB7mgkWs/NXxDDQXZZgAdTKeFj4/t\n5Afw4fv66N4AeQDE1LUGiZte5GODpqMEYDMGZqB3B5NwsL7IlTAvuMkRihHD0PaT\n15W8jcVaUbHS+1S6izoam1p+euAoroYJT5RXnP8tjbIQgIIGWHzympbNVNLg3SXA\nq4Paa6kVgn8UCgzDe7BW48iYkaAAIZb7O8BIC/xVMQKBgQDzDGFoUuIc9sow8/tj\niaDVktKVgijm4yZlAXeQk/ufftpV2QJPLjNE2YHF7nTiPFHoaG4Z6i6UWDQLj2rt\n4wKpC9l555p/tE3/DkAHNJm559K0p43kYRaQ5l16D+FLhLSm38uLtpd6J7lPYdOt\nL+9d/XlHhEhJqFTkfJ9zZq0J8QKBgQDf/I60rfUWWc9Inv6WXtktPquku1VmEl5E\ndDTXLifBOeJ+jtrf89tIClDAjBnAODUujcT1Tm6OSEyRZeYUokB3FTF6WlpuRtce\n/H/95vxJjdjAM5PY9LO9m9bA7sKFM2W19/NGIIJQT+rvUpaRRttoUhXNLkpkb1qA\nfvJ6zSBQLQKBgGnfRr8u+5gqWMEiRquBVDI0ls7RuAd7g0oUbYTpMX60v18N/NeJ\nBIRFSyZxTTEPnY5jjzJytH+iPGmcu7OMY6hHpSBZJw/h9ufXyURaQWyd80cGheSp\n9i6Aas+1AyrmT9sxOXVOwIVRsINH1fFnJBoJRD9G/EY5sWEmeD7Ixy/BAoGBAMac\nK+4KUkh/Wk4KrbSoZeq4p3pqok7f+ra4VCJ5ysaLjUqrYWkz0j0O6IvTrwHC1WVy\nUDM0WNPRSBOlR18EgCUXpcfYVldyeU4Al32MVCjknk3PbknysW5vwP1SuSljaczx\nD8YfDW4pbyjHEru/GM5n+uz1HwHvu1A1QM2jFgQBAoGBAKGcRXBK6I2KmKseyDsG\nbbXibQ8sLlJA4ZFNkJl70yA3xt9hC2cyzfkXNCmSUE/Z5zJUl4bg4ZlEoweBgpnz\nGZ/mrQlhuyQy294Q5o9oCSjEnXGZk3+6o8FAAvOLJ29NTVCSwOJAH89ia3vw6lZW\nKm6AYvcqNTF1HsG2xlZLap+T\n-----END PRIVATE KEY-----\n",
+    "client_email": "ms-analytics-2@rational-hydra-279814.iam.gserviceaccount.com",
+    "client_id": "100977653700069505115",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ms-analytics-2%40rational-hydra-279814.iam.gserviceaccount.com"
+  }
+  

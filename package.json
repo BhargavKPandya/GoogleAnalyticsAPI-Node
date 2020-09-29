@@ -1,0 +1,18 @@
+{
+  "name": "analytics-work",
+  "version": "1.0.0",
+  "description": "Analytics API Work with Node",
+  "main": "app.js",
+  "dependencies": {
+    "googleapis": "^58.0.0",
+    "q": "^1.5.1",
+    "read-excel-file": "^4.0.7",
+    "xlsx": "^0.16.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhargav Pandya",
+  "license": "ISC"
+}
